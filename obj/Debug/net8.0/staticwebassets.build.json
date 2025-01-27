@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "tXVSki6Dh+O0ERtnvMLvxFuRplS0qoiReMXRvhtZuhM=",
+  "Source": "Web_Message_Try2",
+  "BasePath": "_content/Web_Message_Try2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Web_Message_Try2\\wwwroot",
+      "Source": "Web_Message_Try2",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\wwwroot\\",
+      "BasePath": "_content/Web_Message_Try2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\wwwroot\\Index.html",
+      "SourceId": "Web_Message_Try2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\wwwroot\\",
+      "BasePath": "_content/Web_Message_Try2",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
+}

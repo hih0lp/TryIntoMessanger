@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Web_Message_Try2.props" />
+</Project>
