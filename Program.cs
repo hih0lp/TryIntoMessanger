@@ -9,7 +9,7 @@ var app = builder.Build();
 app.UseDefaultFiles();
 app.UseStaticFiles();
 
-app.MapHub<ChatModule>("chat");
+app.MapHub<ChatHub>("chat");
 
 
 app.Run();

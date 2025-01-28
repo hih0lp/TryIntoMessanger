@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F80861D-2A2D-445E-A4B0-7A0078F02054}|Web_Message_Try2.csproj|c:\\users\\user\\source\\repos\\web_message_try2\\chatmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F80861D-2A2D-445E-A4B0-7A0078F02054}|Web_Message_Try2.csproj|solutionrelative:chatmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F80861D-2A2D-445E-A4B0-7A0078F02054}|Web_Message_Try2.csproj|c:\\users\\user\\source\\repos\\web_message_try2\\userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F80861D-2A2D-445E-A4B0-7A0078F02054}|Web_Message_Try2.csproj|solutionrelative:userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F80861D-2A2D-445E-A4B0-7A0078F02054}|Web_Message_Try2.csproj|c:\\users\\user\\source\\repos\\web_message_try2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F80861D-2A2D-445E-A4B0-7A0078F02054}|Web_Message_Try2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F80861D-2A2D-445E-A4B0-7A0078F02054}|Web_Message_Try2.csproj|c:\\users\\user\\source\\repos\\web_message_try2\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F80861D-2A2D-445E-A4B0-7A0078F02054}|Web_Message_Try2.csproj|solutionrelative:chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F80861D-2A2D-445E-A4B0-7A0078F02054}|Web_Message_Try2.csproj|c:\\users\\user\\source\\repos\\web_message_try2\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4F80861D-2A2D-445E-A4B0-7A0078F02054}|Web_Message_Try2.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F80861D-2A2D-445E-A4B0-7A0078F02054}|Web_Message_Try2.csproj|c:\\users\\user\\source\\repos\\web_message_try2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F80861D-2A2D-445E-A4B0-7A0078F02054}|Web_Message_Try2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "UserDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\UserDataBase.cs",
+              "RelativeDocumentMoniker": "UserDataBase.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\UserDataBase.cs",
+              "RelativeToolTip": "UserDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:19:20.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T19:21:40.603Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -49,20 +66,20 @@
               "RelativeDocumentMoniker": "wwwroot\\Index.html",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\wwwroot\\Index.html",
               "RelativeToolTip": "wwwroot\\Index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA8AAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-01-27T19:21:13.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ChatModule.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\ChatModule.cs",
-              "RelativeDocumentMoniker": "ChatModule.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\ChatModule.cs",
-              "RelativeToolTip": "ChatModule.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "DocumentIndex": 1,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatHub.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Web_Message_Try2\\ChatHub.cs",
+              "RelativeToolTip": "ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T19:18:55.619Z",
               "EditorCaption": ""

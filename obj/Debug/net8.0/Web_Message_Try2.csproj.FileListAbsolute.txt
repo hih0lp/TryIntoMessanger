@@ -24,3 +24,4 @@ C:\Users\User\source\repos\Web_Message_Try2\obj\Debug\net8.0\refint\Web_Message_
 C:\Users\User\source\repos\Web_Message_Try2\obj\Debug\net8.0\Web_Message_Try2.pdb
 C:\Users\User\source\repos\Web_Message_Try2\obj\Debug\net8.0\Web_Message_Try2.genruntimeconfig.cache
 C:\Users\User\source\repos\Web_Message_Try2\obj\Debug\net8.0\ref\Web_Message_Try2.dll
+C:\Users\User\source\repos\Web_Message_Try2\obj\Debug\net8.0\Web_Message_Try2.sourcelink.json
